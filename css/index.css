@@ -137,14 +137,14 @@ header {
     align-items: center;
 }
 
-.main04>img {
+.main04>a>img {
 
     width: 50px;
     border-radius: none;
     overflow: hidden;
 }
 
-.main04>img:first-child {
+.main04>a:first-child>img {
     background-color: white;
     border-radius: 7px;
     width: 50px;
